@@ -1,6 +1,6 @@
 Run the TestFrame.java file in /src folder.      
 You must have installed numpy , matplotlib,pandas installed
-
+Usage of Yahoo Finance is simplified.
 Sample Run is given below.
 ![Alt text](https://github.com/kashyap-parmar/Stock_Market_Prediction_And_Suggestion/blob/main/src/a.jpg)
 ![Alt text](https://github.com/kashyap-parmar/Stock_Market_Prediction_And_Suggestion/blob/main/src/b.jpg)
